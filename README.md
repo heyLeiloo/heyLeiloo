@@ -3,7 +3,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 [![typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=FF0080&width=435&lines=But+my+friends+call+me+Leiloo.)](https://github.com/heyValdemar)
 
-![leiloo-video-header-1](https://github.com/user-attachments/assets/6c615947-2b8f-4832-8e40-677c9cbd49cd)
+![heyleiloo-animation-1](https://github.com/user-attachments/assets/0cbaec0e-94a0-44e5-8762-bfca57380c72)
 
 👩🏻‍💻 I'm a Game Designer, Concept Artist, Animator — and the creator of Shark’s Request, a colorful adventure platformer that's my biggest and proudest project so far.
 
