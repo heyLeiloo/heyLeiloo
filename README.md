@@ -19,12 +19,11 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ## Follow Me
 
-🐦 [X / Twitter](https://x.com/heyleiloo)
-<br/>
-🦋 [Bluesky](https://bsky.app/profile/heyleiloo.com)
-<br/>
-📣 [daily.dev Squad](https://app.daily.dev/squads/heyleiloo)
-<br/>
+🎬 [YouTube](https://www.youtube.com//channel/UCn2SDgp4xJJkAWgKXFDhm-g?sub_confirmation=1)\
+🐦 [X / Twitter](https://x.com/heyleiloo)\
+🦋 [Bluesky](https://bsky.app/profile/heyleiloo.com)\
+🎥 [TikTok](https://www.tiktok.com/@heyleiloo)\
+📣 [daily.dev Squad](https://app.daily.dev/squads/heyleiloo)\
 🐈 [GitHub](https://github.com/heyleiloo)
 
 ## Support Me
