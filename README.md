@@ -15,14 +15,24 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 💖 As a Game Designer and artist, my mission is to inspire others to dream big, create boldly, and bring their own ideas to life. I’m building worlds, telling stories, and living the creative life — and I’d love for you to join me on this journey.
 
+<img src="https://github.com/user-attachments/assets/b897269a-71d5-4e62-8e78-552258d2fe9b" width="500" alt="heyleiloo-follow-me" />
+
+## Follow Me
+
+🐦 [X / Twitter](https://x.com/heyleiloo)
+<br/>
+🦋 [Bluesky](https://bsky.app/profile/heyleiloo.com)
+<br/>
+📣 [daily.dev Squad](https://app.daily.dev/squads/heyleiloo)
+<br/>
+🐈 [GitHub](https://github.com/heyleiloo)
+
+## Support Me
+
+🏆 [Patreon](https://www.patreon.com/heyleiloo)
+
 ## My Badges
 
 <a href="https://app.daily.dev/heyleiloo"><img src="https://api.daily.dev/devcards/v2/edk9Au5h40NyDMAzdm6yO.png?type=wide&r=pkj" width="652" alt="Leila's Dev Card"/></a>
-
-<div align="center">
-
-![octocat](https://user-images.githubusercontent.com/111376305/210880888-75f8bf8d-8fe6-444b-93a6-3ce422b02a3d.gif)
-
-</div>
 
 ![footer](https://user-images.githubusercontent.com/111376305/210880871-a53f51da-7b7d-4128-91f4-1c7f3c890fcc.svg)
