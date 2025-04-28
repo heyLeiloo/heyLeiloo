@@ -15,6 +15,10 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 💖 As a Game Designer and artist, my mission is to inspire others to dream big, create boldly, and bring their own ideas to life. I’m building worlds, telling stories, and living the creative life — and I’d love for you to join me on this journey.
 
+## My Badges
+
+<a href="https://app.daily.dev/heyleiloo"><img src="https://api.daily.dev/devcards/v2/edk9Au5h40NyDMAzdm6yO.png?type=wide&r=pkj" width="652" alt="Leila's Dev Card"/></a>
+
 <div align="center">
 
 ![octocat](https://user-images.githubusercontent.com/111376305/210880888-75f8bf8d-8fe6-444b-93a6-3ce422b02a3d.gif)
