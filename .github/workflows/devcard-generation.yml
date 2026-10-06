@@ -18,7 +18,27 @@ jobs:
     permissions:
       contents: write
     steps:
+      # ONE BAD ANSWER FROM A THIRD PARTY IS NOT A BROKEN PROFILE.
+      #
+      # The action fetches an image from api.daily.dev and fails when what
+      # comes back is not a PNG. On 2026-09-19 it got something that was not,
+      # after seven consecutive days of success. The card on the profile was
+      # fine; the only consequence was a failure mail.
+      #
+      # Actions has no retry for a `uses:` step, so the attempt is written
+      # twice: the first is allowed to fail, the second runs only if it did.
+      # Two bad answers in a row is daily.dev having changed something, and
+      # that is worth a red run.
       - name: devcard
+        id: first
+        continue-on-error: true
+        uses: dailydotdev/action-devcard@3.2.1
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          commit_message: "chore: update ${filename}"
+
+      - name: devcard (second attempt)
+        if: steps.first.outcome == 'failure'
         uses: dailydotdev/action-devcard@3.2.1
         with:
           user_id: ${{ secrets.USER_ID }}
